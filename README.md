@@ -45,7 +45,7 @@
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/AstroBot-MD/fork)
+2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
 
 2. After That Upload Session.json File
 
