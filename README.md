@@ -2,7 +2,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/g6kBrXY/Picsart-22-09-28-15-14-11-611.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://img.shields.io/badge/Legend%20Sudanese%20-A--teto--md-red" alt="GIF" width="200" height="60"/>
 
 </p>
 
