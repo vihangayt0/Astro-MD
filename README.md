@@ -52,7 +52,79 @@
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+<head>
 
+
+
+  <link href="https://fonts.googleapis.com/css?family=Raleway+Dots" rel="stylesheet" type="text/css">
+
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+
+</head>
+
+<section>
+
+  <ul id="services">
+
+    <h2>Fancy Colorlib Social</h2>
+
+    <li>
+
+      <div class="facebook">
+
+        <a href="https://facebook.com/colorlib/">
+
+          <i class="fa fa-facebook" aria-hidden="true"></i>
+
+        </a>
+
+      </div>
+
+      <span>Facebook</span>
+
+    </li>
+
+    <li>
+
+      <div class="twitter">
+
+        <a href="https://twitter.com/colorlib/">
+
+          <i class="fa fa-twitter" aria-hidden="true"></i>
+
+        </a>
+
+      </div>
+
+      <span>Twitter</span>
+
+    </li>
+
+    <li>
+
+      <div class="youtube">
+
+        <a href="https://www.youtube.com/c/Colorlib">
+
+          <i class="fa fa-youtube" aria-hidden="true"></i>
+
+        </a>
+
+      </div>
+
+      <span>YouTube</span>
+
+    </li>
+
+    <li>
+
+      <div class="linkedin">
+
+        <a href="https://www.linkedin.com/company/colorlib">
+
+          <i class="fa fa-linkedin" aria-hidden="true"></i>
 
 ## Owner:
 * [`Vihanga-YT`](https://github.com/vihangayt0)
